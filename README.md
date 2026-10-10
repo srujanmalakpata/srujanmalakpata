@@ -1,6 +1,6 @@
 # Hey, I'm Srujan
 
-Most people call me the Dude. Or Duder, or His Dudeness if you're not into the whole brevity thing.
+Most people call me the Dude. Duder works too, or El Duderino if you're feeling fancy, or His Dudeness if you're not into the whole brevity thing.
 
 I'm a CS student at the University of Calgary. I grew up taking machines apart, then taught myself to code and make games (I wanted to be a professional GTA V mod creator), and then the pandemic hit and I fell down a CS/math hole that I never really climbed out of. I'm not a mathematician, though. Math is more of a toolbox for me.
 
